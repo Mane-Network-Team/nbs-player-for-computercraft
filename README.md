@@ -56,6 +56,8 @@ This program is following [opennbs](https://opennbs.org/nbs) **version 5**, the 
 
 If you are using other version please go to "[opennbs](https://opennbs.org/nbs)" homepage and download [OPEN NOTE BLOCK STUDIO](https://opennbs.org/) to convert the old version format into the **version 5** format.
 
+![](https://raw.githubusercontent.com/Mane-Network-Team/nbs-player-for-computercraft/main/Picture/6.png)
+
 ## NBS Songs
 
 NOTE BLOCK SONGS Download in [here](https://opennbs.org/songs/), But there are old version in download list.
