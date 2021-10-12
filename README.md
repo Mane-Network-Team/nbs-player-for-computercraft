@@ -52,15 +52,23 @@ pastebin get PnXAY6JC client
 
 ## NBS Format
 
-There are **ONLY** support [opennbs](https://opennbs.org/nbs) **version 5**, the format is in [here](https://opennbs.org/nbs).
+This program is following [opennbs](https://opennbs.org/nbs) **version 5**, the format description in [here](https://opennbs.org/nbs).
 
-There are also support **OPEN NOTE BLOCK STUDIO**, 
+If you are using other version please go to "[opennbs](https://opennbs.org/nbs)" homepage and download [OPEN NOTE BLOCK STUDIO](https://opennbs.org/) to convert the old version format into the version 5 format.
 
-**Note**: If you are using **old version** of nbs format, **IT DO NOT WORK!** 
+## NBS Songs
 
-So, Please install **OPEN NOTE BLOCK STUDIO** to convert it to new version of nbs.
+NOTE BLOCK SONGS Download in [here](https://opennbs.org/songs/), But there are old version in download list.
+
+## Test
+
+
+
+
 
 # Developer
 
 By [Mane](https://github.com/manesec) and [Ricky](https://github.com/0oRickyo0)
+
+Correction by [Serrule](https://github.com/serrule)
 
