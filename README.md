@@ -28,7 +28,7 @@ If the song have 1 track, 1 `client` just enough.
 
 ![3 track](https://raw.githubusercontent.com/Mane-Network-Team/nbs-player-for-computercraft/main/Picture/3.png)
 
-If the song have 4 track, you need 4 `client` to play the song at same time.
+If the song have 4 tracks, you need 4 `client` to play the song at same time.
 
 ## Channel
 
