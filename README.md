@@ -14,7 +14,7 @@ V1.0
 
 ## In Minecraft
 
-Frist, you need a `server` is like a controller to control other computer(s).
+Frist, you need a `server` it is like a controller to control other computer(s).
 
 ### Server
 
