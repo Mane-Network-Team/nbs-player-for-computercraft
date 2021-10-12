@@ -36,6 +36,8 @@ The client channel number **must start by 3**, Server no need to setup channel.
 
 ## Install
 
+![](https://raw.githubusercontent.com/Mane-Network-Team/nbs-player-for-computercraft/main/Picture/5.png)
+
 ### Server
 
 ```bash
@@ -48,17 +50,15 @@ pastebin get tcvYgiYt server
 pastebin get PnXAY6JC client
 ```
 
-
-
 ## NBS Format
 
-There are **ONLY** support [opennbs](https://opennbs.org/nbs) version 5, the format is in [here](https://opennbs.org/nbs).
+There are **ONLY** support [opennbs](https://opennbs.org/nbs) **version 5**, the format is in [here](https://opennbs.org/nbs).
 
 There are also support **OPEN NOTE BLOCK STUDIO**, 
 
-**Note**: If you are using **old version** of nbs format, **IT NOT WORK!** 
+**Note**: If you are using **old version** of nbs format, **IT DO NOT WORK!** 
 
-So, Please install **OPEN NOTE BLOCK STUDIO** to convert new version of nbs.
+So, Please install **OPEN NOTE BLOCK STUDIO** to convert it to new version of nbs.
 
 # Developer
 
