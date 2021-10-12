@@ -14,7 +14,7 @@ V1.0
 
 ## In Minecraft
 
-Frist, you need a `server` like a controller to control other computer.
+Frist, you need a `server` is like a controller to control other computer(s).
 
 ### Server
 
@@ -32,7 +32,7 @@ If the song have 4 track, you need 4 `client` to play the song at same time.
 
 ## Channel
 
-The client channel number **must start by 3**, Server no need to setup channel.
+The client channel number **must start from 3**, Server no need to setup channel.
 
 ## Install
 
