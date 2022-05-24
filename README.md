@@ -10,7 +10,9 @@ V1.0
 ## Demo Video
 
 Tutorial: https://manesec.blogspot.com/2022/05/play-note-block-or-midi-with-your.html
+
 [Play your midi or nbs in Minecraft via CC: tweaked](https://www.youtube.com/watch?v=P3JGzTIb3T0)
+
 [Play your midi or nbs in Minecraft via CC: tweaked demo](https://www.youtube.com/watch?v=6JXvSlJV7kc)
 
 
